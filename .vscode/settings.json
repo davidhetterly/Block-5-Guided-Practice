@@ -1,4 +1,5 @@
 {
-    "liveServer.settings.AdvanceCustomBrowserCmdLine": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
-    "liveServer.settings.CustomBrowser": "chrome"
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome",
+    "liveServer.settings.CustomBrowser": "google-chrome-stable",
+    "liveServer.settings.port": 3000
 }
